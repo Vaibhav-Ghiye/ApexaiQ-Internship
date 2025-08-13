@@ -1,4 +1,4 @@
-# 💻 Session-1 by Aditya Sir   
+# 💻 Session-2 by Aditya Sir   
 
 ---
 
