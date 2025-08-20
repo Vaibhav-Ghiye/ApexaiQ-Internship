@@ -1,4 +1,4 @@
-# 💻 Session-1 by Gauri Ma'am and Juee Ma'am  
+#  Session by Gauri Ma'am and Juee Ma'am  
 
 
 ---
