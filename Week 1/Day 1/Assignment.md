@@ -7,11 +7,11 @@
 ApexaiQ is a **SaaS-based, agentless IT asset assurance & cybersecurity platform** that gives organizations **real-time visibility** into their entire IT environment — including **hardware, software, cloud, and network resources**.  
 
 **It solves major industry challenges such as:**
-- 🔍 **Incomplete asset visibility** → prevents "shadow IT" risks.  
-- 🛡 **Security gaps** → identifies unpatched or unknown devices.  
-- ⚡ **Slow vulnerability remediation** → improves prioritization.  
-- 📜 **Compliance burdens** → aligns with NIST, HIPAA, GDPR.  
-- 🔄 **Lifecycle management issues** → prevents outdated systems & cost overruns.  
+-  **Incomplete asset visibility** → prevents "shadow IT" risks.  
+-  **Security gaps** → identifies unpatched or unknown devices.  
+-  **Slow vulnerability remediation** → improves prioritization.  
+-  **Compliance burdens** → aligns with NIST, HIPAA, GDPR.  
+-  **Lifecycle management issues** → prevents outdated systems & cost overruns.  
 
 ---
 
@@ -19,19 +19,19 @@ ApexaiQ is a **SaaS-based, agentless IT asset assurance & cybersecurity platform
 
 **IT Asset Management (ITAM)** = a structured approach to tracking, managing & optimizing IT assets from **procurement ➡ retirement**.  
 
-✅ **Benefits of asset management software:**
-- 📂 **Centralized inventory** of all physical & digital assets.  
-- 💰 **Cost optimization** → detect unused/duplicate resources.  
-- 🔒 **Security risk reduction** → track vulnerabilities.  
-- 📑 **Regulatory compliance** → audit-ready reports.  
-- ⏳ **Automated lifecycle alerts** → renewals, warranty expiry.  
-- 📊 **Improved decision-making** → powered by real-time asset data.  
+ **Benefits of asset management software:**
+-  **Centralized inventory** of all physical & digital assets.  
+-  **Cost optimization** → detect unused/duplicate resources.  
+-  **Security risk reduction** → track vulnerabilities.  
+-  **Regulatory compliance** → audit-ready reports.  
+-  **Automated lifecycle alerts** → renewals, warranty expiry.  
+-  **Improved decision-making** → powered by real-time asset data.  
 
 ---
 
 ## 3️⃣ Competitors of ApexaiQ & How They Differ  
 
-**🏆 Key competitors & differences:**  
+** Key competitors & differences:**  
 
 | Competitor        | Strengths | Limitations Compared to ApexaiQ |
 |-------------------|-----------|---------------------------------|
@@ -41,10 +41,10 @@ ApexaiQ is a **SaaS-based, agentless IT asset assurance & cybersecurity platform
 | **Tanium**        | Strong endpoint management | Requires agents → higher maintenance |
 | **Lansweeper**    | Excellent inventory tracking | Limited automated risk scoring |
 
-**✨ ApexaiQ’s Advantages:**  
-- ⚡ **Agentless deployment** → no endpoint installation.  
-- 📊 **Unified dashboard** → compliance + vulnerability + lifecycle in one.  
-- ⏱ **Faster time-to-value** → minimal setup required.  
+** ApexaiQ’s Advantages:**  
+-  **Agentless deployment** → no endpoint installation.  
+-  **Unified dashboard** → compliance + vulnerability + lifecycle in one.  
+-  **Faster time-to-value** → minimal setup required.  
 
 ---
 
@@ -53,11 +53,11 @@ ApexaiQ is a **SaaS-based, agentless IT asset assurance & cybersecurity platform
 ApexaiQ uses **agentless architecture** for **faster deployment & lower overhead**.  
 
 **Advantages:**
-- 🚫 **No endpoint installation** → quick rollout, no conflicts.  
-- 💸 **Lower maintenance cost** vs. agent-based tools.  
-- 🖥 **No performance impact** on devices/servers.  
-- 🔍 **Instant asset discovery** → on-prem, cloud & hybrid.  
-- 📈 **Seamless scaling** → no agent updates or failures.  
+- **No endpoint installation** → quick rollout, no conflicts.  
+- **Lower maintenance cost** vs. agent-based tools.  
+- **No performance impact** on devices/servers.  
+- **Instant asset discovery** → on-prem, cloud & hybrid.  
+- **Seamless scaling** → no agent updates or failures.  
 
 ---
 

@@ -10,9 +10,9 @@ It involves a **combination of technologies, processes, and best practices** to 
 
 **Core Goals (CIA Triad):**
 
-* **C** – **Confidentiality** 🕵️‍♂️ → Protect sensitive information from unauthorized access.
-* **I** – **Integrity** ✅ → Ensure data is accurate and unchanged.
-* **A** – **Availability** 🌐 → Ensure systems and data are accessible when needed.
+* **C** – **Confidentiality**  → Protect sensitive information from unauthorized access.
+* **I** – **Integrity** → Ensure data is accurate and unchanged.
+* **A** – **Availability** → Ensure systems and data are accessible when needed.
 
 
 ---
@@ -21,11 +21,11 @@ It involves a **combination of technologies, processes, and best practices** to 
 
 Cybersecurity is **critical** because:
 
-* 🌍 The **global cost of cybercrime** is projected to reach **\$10.5 trillion annually by 2025**.
-* 📈 Increased digitalization → more entry points for cyberattacks.
-* ⚠️ Protects from threats like **phishing, ransomware, data breaches**.
-* 📜 Helps meet **compliance requirements** like GDPR, HIPAA, ISO 27001.
-* 💼 Maintains customer trust and brand reputation.
+*  The **global cost of cybercrime** is projected to reach **\$10.5 trillion annually by 2025**.
+*  Increased digitalization → more entry points for cyberattacks.
+*  Protects from threats like **phishing, ransomware, data breaches**.
+*  Helps meet **compliance requirements** like GDPR, HIPAA, ISO 27001.
+*  Maintains customer trust and brand reputation.
 
 ---
 
@@ -53,12 +53,12 @@ Cybersecurity is **critical** because:
 
 ##  5. Cybersecurity Best Practices
 
-* ✔ **Enable Multi-Factor Authentication (MFA)** 🔑 
-* ✔ **Keep software up to date** 📅
-* ✔ **Use strong, unique passwords** 🔐
-* ✔ **Regularly back up important data** 💾
-* ✔ **Implement least privilege access** 🛂
-* ✔ **Conduct employee security training** 🎓
+* ✔ **Enable Multi-Factor Authentication (MFA)** 
+* ✔ **Keep software up to date** 
+* ✔ **Use strong, unique passwords** 
+* ✔ **Regularly back up important data** 
+* ✔ **Implement least privilege access** 
+* ✔ **Conduct employee security training** 
 
 ---
 
