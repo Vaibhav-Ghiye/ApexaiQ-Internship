@@ -1,34 +1,35 @@
 const express = require('express');
 const fs = require('fs');
 const path = require('path');
-require('dotenv').config();
 
 const app = express();
-app.use(express.json()); 
+app.use(express.json()); // to handle JSON body
 
-const notesFile = path.join(__dirname, 'notes.json');
+const File = path.join(__dirname, 'notes.json');
 
-// Check if file exists
-if (!fs.existsSync(notesFile)) {
-  fs.writeFileSync(notesFile, JSON.stringify([]));
+// Ensure file exists
+if (!fs.existsSync(File)) {
+  fs.writeFileSync(File, JSON.stringify([]));
 }
 
-// Get all notes
+// Route 1: Get all notes
 app.get('/notes', (req, res) => {
-  const notes = JSON.parse(fs.readFileSync(notesFile));
+  const notes = JSON.parse(fs.readFileSync(File));
   res.json(notes);
 });
 
-//  Add a new note
+// Route 2: Add a new note
 app.post('/notes', (req, res) => {
-  const notes = JSON.parse(fs.readFileSync(notesFile));
+  const notes = JSON.parse(fs.readFileSync(File));
+
   const newNote = { id: Date.now(), text: req.body.text };
   notes.push(newNote);
-  fs.writeFileSync(notesFile, JSON.stringify(notes, null, 2));
+  
+  fs.writeFileSync(File, JSON.stringify(notes, null, 2));
   res.status(201).json(newNote);
 });
 
-const PORT = process.env.PORT || 5000;
+const PORT = 3000;
 app.listen(PORT, () => {
   console.log(`Server running on http://localhost:${PORT}`);
 });
